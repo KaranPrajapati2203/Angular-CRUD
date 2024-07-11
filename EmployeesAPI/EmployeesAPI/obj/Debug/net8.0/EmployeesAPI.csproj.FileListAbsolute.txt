@@ -1,0 +1,124 @@
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\appsettings.json
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.exe
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.deps.json
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.runtimeconfig.json
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.pdb
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Npgsql.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.csproj.AssemblyReference.cache
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.AssemblyInfoInputs.cache
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.AssemblyInfo.cs
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.csproj.CoreCompileInputs.cache
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeesAPI.props
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeesAPI.props
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeesAPI.props
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeesAPI.styles.css
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\Employee.BC174C7E.Up2Date
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.dll
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\refint\EmployeesAPI.dll
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.pdb
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.genruntimeconfig.cache
+D:\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\ref\EmployeesAPI.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\appsettings.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.exe
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.deps.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.runtimeconfig.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.pdb
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Npgsql.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.csproj.AssemblyReference.cache
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.AssemblyInfoInputs.cache
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.AssemblyInfo.cs
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.csproj.CoreCompileInputs.cache
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.sourcelink.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeesAPI.props
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeesAPI.props
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeesAPI.props
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeesAPI.styles.css
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\Employee.BC174C7E.Up2Date
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\refint\EmployeesAPI.dll
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.pdb
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.genruntimeconfig.cache
+D:\Angular\API\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\ref\EmployeesAPI.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.exe
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.deps.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.runtimeconfig.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\EmployeesAPI.pdb
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.csproj.AssemblyReference.cache
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.AssemblyInfoInputs.cache
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.AssemblyInfo.cs
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.csproj.CoreCompileInputs.cache
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeesAPI.props
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeesAPI.props
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeesAPI.props
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeesAPI.styles.css
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\Employee.BC174C7E.Up2Date
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\refint\EmployeesAPI.dll
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.pdb
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\EmployeesAPI.genruntimeconfig.cache
+C:\Users\karan.prajapati\Desktop\employee crud\EmployeesAPI\EmployeesAPI\obj\Debug\net8.0\ref\EmployeesAPI.dll
